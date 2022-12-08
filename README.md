@@ -1,5 +1,5 @@
 # Advent of Code 2022
-This repository contains my solutions to the [Advent of Code 2022](https://adventofcode.com/). All of my solutions will be completed using C++.
+This repository contains my solutions to the [Advent of Code 2022](https://adventofcode.com/) challenge. All of my solutions will be completed using C++.
 
 Please don't look into this repository unless you want to spoil the challenge for yourself! However, if you've already completed a challenge and want to compare your solution with mine, go ahead and look!
 
